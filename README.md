@@ -17,5 +17,8 @@ Sou o Henrique Trajano Guerra tenho 20 anos e sou apaixonado por programação e
 ##
 <div> 
   <a href="mailto:henriquetrajanoguerra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/henrique-trajano-guerra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="www.linkedin.com/in/henrique-trajano-guerra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <br />
+  <br />
+  ![Snake animation](https://github.com/HenriqueTrajano/HenriqueTrajano/blob/output/github-contribution-grid-snake.svg)
 </div>
