@@ -13,12 +13,14 @@ Sou o Henrique Trajano Guerra tenho 20 anos e sou apaixonado por programação e
 
 <br />
 <br />
-<img align="right" width="150" alt="Avatar-Henrique-Trajano" title="Feita através do readyplayer.me" src="https://user-images.githubusercontent.com/69161086/148652273-17565647-1de7-42f1-b3db-accaafb10f93.png">
+<img align="right" width="150" alt="Avatar-Henrique-Trajano" title="Feita através do readyplayer.me" src="https://user-images.githubusercontent.com/69161086/148849077-c0a2ab76-b3c0-472c-b242-cab6a04a5726.png">
 
 ##
 <div> 
   <a href="mailto:henriquetrajanoguerra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="www.linkedin.com/in/henrique-trajano-guerra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <br />
+  <br />
   <br />
   <br />
   
