@@ -4,12 +4,13 @@ Sou o Henrique Trajano Guerra tenho 20 anos e sou apaixonado por programação e
 
 ## 🖥️ Tecnologias 
 <code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA"/></code>
-<code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML"/></code>
 <code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS"/></code>
+<code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
+<code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title = "ANGULAR"/></code>
 
-📚 Estou estudando JS/TS, HTML e CSS na Alura, porque tenho um projeto que vai necessitar deles para sua implementação. 
+📚 Estou estudando Angular na Alura, porque tenho um projeto que vai necessitar deles para sua implementação. 
 
 <br />
 <br />
