@@ -10,7 +10,7 @@ Sou o Henrique Trajano Guerra tenho 20 anos e sou apaixonado por programação e
 <code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
 <code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title = "ANGULAR"/></code>
 
-📚 Estou estudando Angular na Alura, porque tenho um projeto que vai necessitar deles para sua implementação. 
+📚 Estou estudando Angular na Alura, porque tenho um projeto que vai necessitar dele para sua implementação. 
 
 <br />
 <br />
