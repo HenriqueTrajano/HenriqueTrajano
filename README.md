@@ -2,13 +2,16 @@
 
 Sou o Henrique Trajano Guerra tenho 20 anos e sou apaixonado por programação e games (OBS: se quiser mandar um lolzinho, eu to dentro!). Estou no início da minha jornada neste encantador âmbito da tecnologia e quanto mais aprendo, mais percebo a imensidão que essa área possui, aumentando exponencialmente minha paixão por ela. Atualmente encontro-me fazendo um bacharelado em Engenharia de Software na PUCRS e também estou estudando certos temas pela Alura. 
 
-## 🖥️ Tecnologias 
-<code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA"/></code>
-<code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML"/></code>
-<code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS"/></code>
-<code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
-<code><img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title = "ANGULAR"/></code>
+## 🖥️ Tecnologias
+<div>
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA"/> &nbsp;&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML"/>&nbsp;&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS"/>&nbsp;&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/>&nbsp;&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/>&nbsp;&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title = "ANGULAR"/>&nbsp;&nbsp;
+</div>
+</br>
 
 📚 Estou estudando Angular na Alura, porque tenho um projeto que vai necessitar dele para sua implementação. 
 
