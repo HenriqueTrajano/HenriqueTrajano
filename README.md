@@ -13,7 +13,7 @@ Sou o Henrique Trajano Guerra tenho 20 anos e sou apaixonado por programação e
 </div>
 </br>
 
-📚 Estou estudando Angular na Alura, porque tenho um projeto que vai necessitar dele para sua implementação. 
+📚 Estou estudando um pouco de React, porque tenho um projeto que vai necessitar dele para sua implementação, mas pretendo continuar depois disso o meu estudo sobre Angular na Alura. 
 
 <br />
 <br />
