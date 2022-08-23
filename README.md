@@ -10,10 +10,12 @@ Sou o Henrique Trajano Guerra tenho 20 anos e sou apaixonado por programação e
   <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/>&nbsp;&nbsp;
   <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/>&nbsp;&nbsp;
   <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title = "ANGULAR"/>&nbsp;&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="REACT.JS"/>&nbsp;&nbsp;
+  <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="VUE.JS"/>&nbsp;&nbsp;    
 </div>
 </br>
 
-📚 Estou estudando um pouco de React, porque tenho um projeto que vai necessitar dele para sua implementação, mas pretendo continuar depois disso o meu estudo sobre Angular na Alura. 
+📚 Estou estudando um pouco de Vue.js, porque tenho um projeto que vai necessitar dele para sua implementação, mas pretendo continuar depois disso o meu estudo sobre Angular na Alura. 
 
 <br />
 <br />
