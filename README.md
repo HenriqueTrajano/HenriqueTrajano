@@ -1,6 +1,6 @@
 ## Fala gente, tudo bele?
 
-Sou o Henrique Trajano Guerra tenho 20 anos e sou apaixonado por programação e games (OBS: se quiser mandar um lolzinho, eu to dentro!). Estou no início da minha jornada neste encantador âmbito da tecnologia e quanto mais aprendo, mais percebo a imensidão que essa área possui, aumentando exponencialmente minha paixão por ela. Atualmente encontro-me fazendo um bacharelado em Engenharia de Software na PUCRS e também estou estudando certos temas pela Alura. 
+Sou o Henrique Trajano Guerra tenho 21 anos e sou apaixonado por programação e games (OBS: se quiser mandar um lolzinho, eu to dentro!). Estou no início da minha jornada neste encantador âmbito da tecnologia e quanto mais aprendo, mais percebo a imensidão que essa área possui, aumentando exponencialmente minha paixão por ela. Atualmente encontro-me fazendo um bacharelado em Engenharia de Software na PUCRS e também estou estudando certos temas pela Alura. 
 
 ## 🖥️ Tecnologias
 <div>
@@ -13,7 +13,7 @@ Sou o Henrique Trajano Guerra tenho 20 anos e sou apaixonado por programação e
 </div>
 </br>
 
-📚 Estou estudando um pouco de Vue.js, porque tenho um projeto que vai necessitar dele para sua implementação, mas pretendo continuar depois disso o meu estudo sobre Angular na Alura. 
+📚 Estou estudando um pouco de React na Udemy, porque quero aumentar meu grau de entendimento dessa lib.  
 
 <br />
 <br />
