@@ -1,6 +1,6 @@
 ## Fala gente, tudo bele?
 
-Sou o Henrique Trajano Guerra tenho 21 anos e sou apaixonado por programação e games (OBS: se quiser mandar um lolzinho, eu to dentro!). Estou no início da minha jornada neste encantador âmbito da tecnologia e quanto mais aprendo, mais percebo a imensidão que essa área possui, aumentando exponencialmente minha paixão por ela. Atualmente encontro-me fazendo um bacharelado em Engenharia de Software na PUCRS e também estou estudando certos temas pela Alura. 
+Sou o Henrique Trajano Guerra tenho 21 anos e sou apaixonado por programação e games (OBS: se quiser mandar um lolzinho, eu to dentro!). Estou no início da minha jornada neste encantador âmbito da tecnologia e quanto mais aprendo, mais percebo a imensidão que essa área possui, aumentando exponencialmente minha paixão por ela. Atualmente encontro-me fazendo um bacharelado em Engenharia de Software na PUCRS e também estou como estagiário na Dell Technologies. 
 
 ## 🖥️ Tecnologias
 <div>
