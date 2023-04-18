@@ -29,6 +29,6 @@ Sou o Henrique Trajano Guerra tenho 21 anos e sou apaixonado por programação e
   <br />
   <br />
   
-![Snake animation](https://github.com/HenriqueTrajano/HenriqueTrajano/blob/output/github-contribution-grid-snake.svg))
+![Snake animation](https://github.com/HenriqueTrajano/HenriqueTrajano/blob/output/github-contribution-grid-snake.svg)
   
 </div>
